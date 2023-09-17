@@ -1,4 +1,4 @@
-mv door_managment_fi door_managment_files
+mv door_managment_files door_managment_files
 mkdir door_managment_files/door_configuration
 mkdir door_managment_files/door_logs
 mkdir door_managment_files/door_map
